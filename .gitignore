@@ -27,6 +27,7 @@ project.xcworkspace
 .gradle
 local.properties
 build
+!build/outputs/aar/react-native-svg-release.aar
 
 # node.js
 #
